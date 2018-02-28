@@ -1,2 +1,2 @@
 # motos
-Mòduls Odoo
+Mòduls Odoo per al client de Motos
