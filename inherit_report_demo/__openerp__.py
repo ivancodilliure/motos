@@ -3,14 +3,14 @@
     'name': "inherit_report_demo",
 
     'summary': """
-        Tutorial about how to inherit and modify already existing QWeb reports.""",
+        Modificacions sobre Odoo""",
 
     'description': """
-        In this tutorial you will learn how to inherit and modify existing QWeb reports.
+        Anem a probar - descripció
     """,
 
-    'author': "Yenthe Van Ginneken",
-    'website': "http://www.odoo.yenthevg.com",
+    'author': "Ivan",
+    'website': "http://www.codilliure.cat",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
